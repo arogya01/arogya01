@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning whatever piques my curiosity
-- ⚡ Hobbies **Reading books, scouring the web.**
+- ⚡ Some of my hobbies are **Reading books, scouring the interwebs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
