@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm arogya</h1>
-<h3 align="center">A Curious developer from India</h3>
 
 
-- 🌱 I’m currently learning **React,javascript and node, also sprinkle a lil bit of c++ on top.**
+- 🌱 I’m currently learning whatever piques my curiosity
 - ⚡ Hobbies **Reading books, scouring the web.**
 
 <h3 align="left">Connect with me:</h3>
